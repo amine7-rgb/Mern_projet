@@ -1,0 +1,9 @@
+{
+  "lastRun": "1677706611555-add-reset-password-fields.js",
+  "migrations": [
+    {
+      "title": "1677706611555-add-reset-password-fields.js",
+      "timestamp": 1677706793302
+    }
+  ]
+}
